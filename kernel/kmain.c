@@ -1,0 +1,6 @@
+// tztedtrzh
+//
+
+void kmain(void) {
+  
+}
